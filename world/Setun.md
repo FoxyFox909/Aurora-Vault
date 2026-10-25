@@ -1,0 +1,1 @@
+Setun is the homeworld of Aurora.

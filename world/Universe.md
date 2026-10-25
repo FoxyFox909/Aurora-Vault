@@ -1,0 +1,1 @@
+The setting takes place in another solar system. Our solar system is nowhere to be seen. Is it even the same universe? Who knows. But at least, its fundamental laws of physics match up to ours. The same science that works on Earth, works on [[Setun]].

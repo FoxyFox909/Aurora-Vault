@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "4cfd012fc38f1909",
+    "type": "split",
+    "children": [
+      {
+        "id": "795f920f5e37d678",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "c27c616cac38b830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTS"
+            }
+          }
+        ]
+      },
+      {
+        "id": "651c7a08d03dd65d",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "47451c82545525b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/Universe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Universe"
+            }
+          },
+          {
+            "id": "c5efb073114ef678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/Setun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setun"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c305205801b85484",
+    "type": "split",
+    "children": [
+      {
+        "id": "e54429d133f9d750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ebfd0d95b6a78fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8c7c1d3eede83f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e50b3f44ea2d827",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72b3785c57bfb9ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e1520efd28816c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0fcde382e30a9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "world/Setun.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a4ab6ba816ede3b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "world/Setun.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8fabf81b19089b44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39986bec8648bb1d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2b3399865f95327e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "world/Setun.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c5efb073114ef678",
+  "lastOpenFiles": [
+    "world/Universe.md",
+    "world/Setun.md",
+    "README.md",
+    "AGENTS.md",
+    "world",
+    "ai_realm/the_chats/RULES.md",
+    "ai_realm/the_playground/RULES.md",
+    "ai_realm/the_chats/correspondence",
+    "ai_realm/the_chats/past_chats",
+    "ai_realm/the_chats",
+    "Welcome.md",
+    "ai_realm/the_forum/RULES.md",
+    "ai_realm/the_playground",
+    "ai_realm/the_forum",
+    "ai_realm",
+    "Untitled"
+  ]
+}
