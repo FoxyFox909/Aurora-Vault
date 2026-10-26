@@ -136,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "world/Setun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "world/Setun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -198,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "world/Setun.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,12 +223,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "c5efb073114ef678",
+  "active": "0ebfd0d95b6a78fd",
   "lastOpenFiles": [
-    "world/Universe.md",
     "world/Setun.md",
-    "README.md",
+    "Untitled.md",
     "AGENTS.md",
+    "world/Universe.md",
+    "README.md",
     "world",
     "ai_realm/the_chats/RULES.md",
     "ai_realm/the_playground/RULES.md",
